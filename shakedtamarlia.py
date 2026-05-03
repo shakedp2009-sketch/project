@@ -1,4 +1,5 @@
 
 import streamlit as st
 
-st.write("shaked queen" )
+st.write("שקד המלכה של תמר לוי חיילת שלה " )
+
